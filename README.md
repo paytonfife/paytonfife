@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Payton Fife
-- 👀 I’m interested in data science, data visualization, and machine learning
-- 🌱 I’m currently studying Data Science and Computer Science at the University of Wisconsin-Madison
+- 📝 I'm interested in data science, data visualization, and machine learning
+- 🐾 I’m currently studying Data Science and Computer Science at the University of Wisconsin-Madison
 - 📫 How to reach me: paytonfife@gmail.com
 
 <!---
